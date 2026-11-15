@@ -21,4 +21,4 @@ Abra o endereço `localhost` informado no terminal. Para encerrar o servidor, pr
 
 ## Prévia do site
 
-![Marmoraria Lumina em um monitor e em um celular](./mockup-marmoraria.png)
+![Mockup da Marmoraria Lumina](./mockup-marmoraria.png)
