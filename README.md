@@ -19,6 +19,8 @@ Abra o endereço `localhost` informado no terminal. Para encerrar o servidor, pr
 - `package.json` — dependências e comandos disponíveis na raiz.
 - `.nvmrc` — versão do Node.js indicada pelo projeto. 2550a107-b125-42e5-bac7-fe2777ae912f.png…]()
 
+- `.nvmrc` — versão do Node.js indicada pelo projeto.
+
 ## Prévia do site
 
 ![Mockup da Marmoraria Lumina](./mockup-marmoraria.png)
